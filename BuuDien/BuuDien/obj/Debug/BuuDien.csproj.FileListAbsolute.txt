@@ -1,0 +1,11 @@
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\bin\Debug\BuuDien.exe.config
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\bin\Debug\BuuDien.exe
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\bin\Debug\BuuDien.pdb
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.csprojAssemblyReference.cache
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.Form1.resources
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.Properties.Resources.resources
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.csproj.GenerateResource.cache
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.exe
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.pdb
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.Control.NhapThongTinHangHoa.resources
+D:\Project\Project code\Project C-sharp Window Form\BuuDien\BuuDien\obj\Debug\BuuDien.Control.NhapThongTinThu.resources
